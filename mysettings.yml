@@ -1,0 +1,5 @@
+cf_api: https://api.run.pivotal.io
+cf_user: USERNAME # USERNAME/EmailAddress for target api
+cf_user_pass: PASSWORD # password for cf_user
+cf_org: APJ # target ORG for cf_user
+cf_space: development # target space in cf_org
